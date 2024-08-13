@@ -4,4 +4,4 @@ age = '43'
 print(age)
 print(int(age) + 1)
 is_student = 'True'
-print('is_student:', is_student)
+print('is student:', is_student)
